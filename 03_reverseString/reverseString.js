@@ -1,4 +1,4 @@
-let str="hello";
+let str="";
 const reverseString = function(str) {
 return str.split("").reverse().join("")
 };
